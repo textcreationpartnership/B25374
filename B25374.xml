@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull news for England or, a congratulatory verse upon our late happy success in firing 150 Dutch ships in their own harbours.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25374</idno><idno type="EEBO-CITATION">99886667</idno>
+  <idno type="VID">186971</idno>
+  <idno type="EEBO-PROQUEST">2240899854</idno>
+  
+            <idno type="STC">Wing J1132B</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[95]</idno>
+            <idno type="STC">ESTC R226344</idno>
+            <idno type="PROQUEST">ocm99886667</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886667e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186971)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull news for England or, a congratulatory verse upon our late happy success in firing 150 Dutch ships in their own harbours.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap, for Richard Head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Our joys swell high, and now must needs run o're,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Netherlands --  Foreign relations --  England --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Netherlands --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:186971:1"/>
+            <head>Joyfull News for ENGLAND OR, A Congratulatory Verse upon our late happy Success in Firing 150 <hi>Dutch</hi> Ships in their own Harbours.</head>
+            <lg>
+               <l>OUr joys swell high, and now must needs run o're,</l>
+               <l>Since <hi>Seas</hi> make <hi>Bonfires</hi> greater then the shore,</l>
+               <l>But shall we be out done? shall <hi>Neptune</hi> thus</l>
+               <l>By joys bright flaming <hi>Heraulds</hi> rivall us?</l>
+               <l>It is our Glory, therefore let it be,</l>
+               <l>The signs of his intended amity.</l>
+            </lg>
+            <lg>
+               <l>Whil'st in contiguous <hi>Bonefires</hi> all the <hi>Nation</hi>
+               </l>
+               <l>Paint their late joyes, and sport in conflagration,</l>
+               <l>(Former Fires scarce extinguished) there came</l>
+               <l>True matter for new joy, and lasting shame</l>
+               <l>To our vain Boasting Foes, who hence must know</l>
+               <l>Th'ave paid us but in part, what they do owe.</l>
+            </lg>
+            <lg>
+               <l>Let Royallists now voluntary meet,</l>
+               <l>And with fresh Wood the kind Devourer greet,</l>
+               <l>Let us all study so to bear our parts;</l>
+               <l>To make a consort of true Loyall hearts.</l>
+               <l>The Guns and Trumpets shall with warlike voice</l>
+               <l>Contribute sounds; and help us to rejoyce.</l>
+               <l>And rather then want fewell in the close,</l>
+               <l>I'le make a <hi>walking Bonefire</hi> of my <hi>Nose.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But some may aske, why we rejoyce so much.</l>
+               <l>Doth <hi>France</hi> recant? or beaten are the <hi>Dutch?</hi>
+               </l>
+               <l>Doth <hi>Denmark</hi> see his error and submit?</l>
+               <l>Or the <hi>French</hi> King the <hi>Dutch Protection</hi> quit?</l>
+               <l>I'le answer such with silence, and be gone;</l>
+               <l>For were they deaf, they needs must hear what's done.</l>
+               <l>The Startled States (again) shall never boast</l>
+               <l>Of things nere done, bravad'ing on our Coast.</l>
+               <l>No more <hi>Apostate Holland</hi> shall proclaim</l>
+               <l>Those partiall conquests, which but brand her name.</l>
+               <l>Now the <hi>Delusion's</hi> o're, they plainly see</l>
+               <l>What once they were, what now they ought to be.</l>
+            </lg>
+            <lg>
+               <l>Draw up your Sluces, ye may quench a flame,</l>
+               <l>But never hope to wash away the Shame</l>
+               <l>Ye have sustein'd, I think we need not come</l>
+               <l>Again, by this y'ave foes enough at home:</l>
+            </lg>
+            <lg>
+               <l>Appease your <hi>crying male contents</hi> with toys,</l>
+               <l>And blind their eyes with meer invented joyes.</l>
+               <l>See whether that will take; but if it doe</l>
+               <l>I'le be of <hi>all Religions</hi> then, as you.</l>
+            </lg>
+            <lg>
+               <l>You see your <hi>Allys</hi> will not spend their Blouds,</l>
+               <l>The wiser they; thus ye are <hi>left 'ith' suds.</hi>
+               </l>
+               <l>This and much more ye justly have deserv'd,</l>
+               <l>Though <hi>Vengeance Execution</hi> deferr'd.</l>
+            </lg>
+            <lg>
+               <l>What, wrong a <hi>Prince,</hi> whose virtues may become</l>
+               <l>A King that's fit to rule all <hi>Christendome.</hi>
+               </l>
+               <l>So mercifull, he by his acts did shew</l>
+               <l>He would convince ye, 'fore he would subdue,</l>
+               <l>But take what follows, give us leave to laugh</l>
+               <l>Who win; our Souldiers are resolv'd to quaff</l>
+               <l>At your expence, nay in your cups a while,</l>
+               <l>Whil'st ye lament, they have good cause to smile,</l>
+            </lg>
+            <lg>
+               <l>Thanks <hi>Peerless Prince</hi> for what thou now hast done,</l>
+               <l>Go on and perfect what thou hast begun.</l>
+            </lg>
+            <lg>
+               <l>Thanks to that <hi>Glory of the West,</hi> that Star</l>
+               <l>By whose conductive influence we are</l>
+               <l>Brought to injoy our Seas, whose worth</l>
+               <l>These <hi>Islands</hi> are too small to eccho forth.</l>
+               <l>So valiant, he led our Navy through</l>
+               <l>
+                  <hi>Red seas of bloud,</hi> and yet ne▪re wet his shooe.</l>
+            </lg>
+            <lg>
+               <l>Thanks to Sir <hi>Robert Holms,</hi> that worthy soul,</l>
+               <l>Whom bribes could ne'r seduce, nor threats controul.</l>
+            </lg>
+            <lg>
+               <l>Thanks to the Rest, whose courage baffled fear,</l>
+               <l>Ne'r better pleas'd, then when their foes appear.</l>
+            </lg>
+            <lg>
+               <l>'Tis now my <hi>Leege</hi> they'l see that onely You,</l>
+               <l>Can give them Pardon and Protection too.</l>
+               <l>So let them live, and by your grace convince</l>
+               <l>Their treach'rous hearts, that they have wrong'd a <hi>Prince</hi>
+               </l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Printed with Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON, Printed by</hi> Peter Lillicrap, <hi>for</hi> Richard Head, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
